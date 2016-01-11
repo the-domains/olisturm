@@ -1,6 +1,6 @@
 name: olisturm
 favicon: null
-layout_spectrum: 0.4256
+layout_spectrum: 0.77343
 typography_spectrum: 0.31204
 title: Oliver Sturm
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5283590317703784
   lightness: 0.773898093495518
   saturation: 0.5354675448033959
-  rhythmicContrast: 0.7024120150599629
+  rhythmicContrast: 0.75
 purpose: []
