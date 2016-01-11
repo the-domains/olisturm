@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Oliver Sturm]]></title>
+        <description><![CDATA[Oliver Sturm]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 17:53:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Automatic Web Design - The Future? ]]></title>
+            <description><![CDATA[<article><h1>Automatic Web Design - The Future? </h1><p>For a long time now, I've been looking for technology that would enable me to write more. I used to do lots of writing, but somehow the overhead of it caught up with me. Blog sites used to require maintenance back when I ran them myself, and then new systems started becoming available that meant less work for myself - but who transfers content? Who makes sure that the old Google links were still active and doing what they should? Well... nobody, as it turned out. And at some point this became so much of a concern that I lost the motivation to keep adding content. Sad but true...</p></article>]]></description>
+            <link>undefinedautomatic-web-design-the-future/index.html</link>
+            <guid isPermaLink="false">ae3dd3b6-f832-4bc6-8a49-51b3aa4fb020</guid>
+            <pubDate>Mon, 11 Jan 2016 17:53:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
