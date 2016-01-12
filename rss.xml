@@ -4,14 +4,14 @@
         <description><![CDATA[Oliver Sturm]]></description>
         <link>https://thegrid.ai/olisturm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 09:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 09:03:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/olisturm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is a second post. Cool stuff.</p>]]></description>
+            <title><![CDATA[Second Post Title]]></title>
+            <description><![CDATA[<article><h1>Second Post Title</h1><p>This is a second post. Cool stuff.</p></article>]]></description>
             <link>https://thegrid.ai/olisturm/bccd12e7-3e06-4f65-b022-273b00b8d3ce/index.html</link>
             <guid isPermaLink="false">bccd12e7-3e06-4f65-b022-273b00b8d3ce</guid>
-            <pubDate>Tue, 12 Jan 2016 09:01:46 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 09:03:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Automatic Web Design - The Future? ]]></title>
