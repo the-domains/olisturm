@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Oliver Sturm]]></title>
         <description><![CDATA[Oliver Sturm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/olisturm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 17:53:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 09:02:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/olisturm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is a second post. Cool stuff.</p>]]></description>
+            <link>https://thegrid.ai/olisturm/bccd12e7-3e06-4f65-b022-273b00b8d3ce/index.html</link>
+            <guid isPermaLink="false">bccd12e7-3e06-4f65-b022-273b00b8d3ce</guid>
+            <pubDate>Tue, 12 Jan 2016 09:01:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Automatic Web Design - The Future? ]]></title>
             <description><![CDATA[<article><h1>Automatic Web Design - The Future? </h1><p>For a long time now, I've been looking for technology that would enable me to write more. I used to do lots of writing, but somehow the overhead of it caught up with me. Blog sites used to require maintenance back when I ran them myself, and then new systems started becoming available that meant less work for myself - but who transfers content? Who makes sure that the old Google links were still active and doing what they should? Well... nobody, as it turned out. And at some point this became so much of a concern that I lost the motivation to keep adding content. Sad but true...</p></article>]]></description>
-            <link>undefinedautomatic-web-design-the-future/index.html</link>
+            <link>https://thegrid.ai/olisturm/automatic-web-design-the-future/index.html</link>
             <guid isPermaLink="false">ae3dd3b6-f832-4bc6-8a49-51b3aa4fb020</guid>
             <pubDate>Mon, 11 Jan 2016 17:53:37 GMT</pubDate>
         </item>
